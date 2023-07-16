@@ -1,11 +1,10 @@
-
+<img align="right" src="https://raw.githubusercontent.com/gist/GustaSoier/abff24d55e4e903bd8708d5307531ee4/raw/09edecdbbee16c272a9999a8119f719900bfbe3e/githubcard.svg"/>
 
 ### Hi! I'm Gustavo Sampaio Soier👋
 
-Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
+Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. <br>Currently, I'm focused on studying front-end to create interactive and attractive<br> interfaces for websites and applications. I am excited to learn and grow in this<br> ever-evolving field.
 
 
-![Soier GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaSoier&show_icons=true&theme=merko)
 
 ## 🚀SKILLS
 <div style="display: inline-block"><br/>
