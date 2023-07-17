@@ -2,7 +2,7 @@
 
 ### Hi! I'm Gustavo Sampaio Soier👋
 
-Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. <br>Currently, I'm focused on studying front-end to create interactive and attractive<br> interfaces for websites and applications. I am excited to learn and grow in this<br> ever-evolving field.
+Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
 
 
 
