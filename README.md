@@ -14,7 +14,6 @@ Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technolo
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
    <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-badge&logo=Canva&logoColor=white"/>
 
 </div><br/>
 
