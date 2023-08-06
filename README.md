@@ -1,6 +1,6 @@
 <img align="right" height="480em" src="https://raw.githubusercontent.com/gist/GustaSoier/abff24d55e4e903bd8708d5307531ee4/raw/09edecdbbee16c272a9999a8119f719900bfbe3e/githubcard.svg"/>
 
-### Hi! I'm  Gustavo Sampaio Soier 👋
+### Hi! I'm 👋
 
 Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
 
