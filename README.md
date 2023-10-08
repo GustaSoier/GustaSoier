@@ -25,3 +25,4 @@ Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technolo
 ## 📱CONTACT
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo.oxx)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://email.com/gsampaiosoier0@gmail.com)
