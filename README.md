@@ -6,13 +6,14 @@ Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technolo
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GustaSoier&show_icons=true&theme=dark"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GustaSoier&show_icons=true&theme=radical"/>
   </a>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSoier&layout=compact&langs_count=7&theme=dark"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSoier&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<br>
+---
+
 
 ## 🚀SKILLS
 
@@ -31,8 +32,12 @@ Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technolo
   
 </div><br/>
 
-
 ## 📱CONTACT
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo.oxx)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsampaiosoier0@gmail.com)
+
+---
+
+ ## 👀 VISITAS 
+<p>  <img alingn="center" src="https://profile-counter.glitch.me/GustaSoier/count.svg" /></p>
