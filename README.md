@@ -6,7 +6,7 @@ Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technolo
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GustaSoier&show_icons=true&theme=radical"/>
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GustaSoier&show_icons=true&theme=radical"/>
   </a>
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSoier&layout=compact&langs_count=7&theme=radical"/>
