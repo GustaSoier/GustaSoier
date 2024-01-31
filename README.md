@@ -1,8 +1,7 @@
-### Hi! I'm Gustavo Sampaio👋
-
-Hello! I'm Gustavo Sampaio Soier, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end and back-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=7000&pause=1000&color=F7F7F7&random=false&width=435&lines=+Hello%2C+my+name+is+Gustavo+Sampaio+Soier;I'm+17+years+old;+I+live+in+Brazil%2C+S%C3%A3o+Paulo;I'm+studying+systems+development)](https://git.io/typing-svg)
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustaSoier&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
