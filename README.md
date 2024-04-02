@@ -2,7 +2,7 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustaSoier&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:.
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GustaSoier&show_icons=true&theme=merko"/>
