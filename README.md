@@ -3,12 +3,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustaSoier&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATUS:
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GustaSoier&show_icons=true&theme=merko"/>
-  </a>
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSoier&layout=compact&langs_count=7&theme=merko"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustaSoier&show_icons=true&count_private=true&hide_border=true&title_color=abd200&icon_color=abd200&text_color=fff&bg_color=0d1117" alt="Gustavo Sampaio Soier github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaSoier&layout=compact&hide_border=true&title_color=abd200&text_color=fff&bg_color=0d1117" />
 </div>
 
 ---
