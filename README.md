@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=5000&pause=500&color=F7F7F7&random=false&width=435&lines=+Hello%2C+my+name+is+Gustavo+Sampaio+Soier;I'm+17+years+old;+I+live+in+Brazil%2C+S%C3%A3o+Paulo;I'm+studying+systems+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=5000&pause=500&color=F7F7F7&random=false&width=435&lines=+Hello%2C+my+name+is+Gustavo+Sampaio+;I'm+17+years+old;+I+live+in+Brazil%2C+S%C3%A3o+Paulo;I'm+studying+systems+development)](https://git.io/typing-svg)
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustaSoier&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
